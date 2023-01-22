@@ -14,7 +14,7 @@ var myFunc = function(){
 }
 ```
 
-- The difference between `Function Statement` and `Function Expression` is **hoisting**. The statement will have full function stored during the first run and the expression will have `undefined` value in Global Context.
+- The difference between `Function Statement` and `Function Expression` is **[[Hoisting]]**. The statement will have full function stored during the first run and the expression will have `undefined` value in Global Context.
 - So due to hoisting if we try to call a function before declaring them `statement` will run just fine but `expression` will give us an error.
 ```js
 a() // log : It is function statement
@@ -37,38 +37,22 @@ var b = function(){
 - Ecma script donot allow us to declare an anonymous function.
 - I can be used where function is treated like a values.
 For Eg. 
+
 - It can be assignment to a variable 
 ```rb
 var b = function(){
 	console.log("anonymous function assignment to a variable")
 }
 ```
+
 - It can be passed as a parameters
-
-### Parameters and Arguments
-
-#### Parameters
-When we create a function we called the indentifiers as **Parameters**
 ```js
-// So the num1 and num2 are called us paraentes
-function add(num1, num2){
-	return num1 + num2
-}
-```
-
-#### Arguments
-A values that we pass inside a function when we calling that function that is known as arguments.
-```js
-// So the num1 and num2 are called us paraentes
-function add(num1, num2){
-	return num1 + num2
-}
-
-// Here 1, 2 are the arguments
-sum = add(1,2)
+setTimeout(function (){
+console.log("This is an anonymous function")
+}, 5000);
 ```
 
 ### First Class Function 
-- In JS we can pass function in another funciton as argument.
+- In JS we can pass function in another function as argument.
 - The ability to pass funtion as paramenter is known as first class function.
 - It can also be refered as **First Class Citizen**.
