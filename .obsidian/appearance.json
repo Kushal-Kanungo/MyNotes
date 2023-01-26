@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Things",
-  "textFontFamily": "JetBrains Mono,Inter"
+  "textFontFamily": "JetBrains Mono,Inter",
+  "baseFontSize": 20
 }

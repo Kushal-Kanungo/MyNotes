@@ -125,3 +125,67 @@ stu.courses.create(name: "Web Development", description: "Website Development", 
 4. Now we have successfully created many to many relationship.
 
 #### 2. has_many: through
+- It creates many to many relation.
+- It uses a third table but this table also have its model unlike `has_and_belongs_to_many`.
+
+##### Steps
+- Generate a student model
+- Generate a project model `rails g model project name:string desc:string`
+- Run the migration
+- Create *one more model* to connect these two models `rails g model student_project student:references project:references`
+- Run the migration `rails db:migrate`
+- Add association in `Student Model`
+```rb
+class Student < ApplicationRecord
+    has_many :student_projects
+    has_many :projects, through: :student_projects
+end
+```
+ - Add association in `Project Model`.
+ ```rb
+ class Project < ApplicationRecord
+  has_many :student_projects
+  has_many :projects, :through :student_projects
+end
+```
+- Now we can also add other field in the `student_projects` table
+- `rails g migration add_submission_date_to_student_projects submission_date:date`
+- Run the migration.
+- Now we have created a *many to many* relation with custom columns.
+##### Implementation
+```rb
+# First we create sum projects
+Project.create(name: "HealthAPP")
+Project.create(name: "Block Chain App")
+Project.create(name: "E-Commerce App")
+
+Student_Project.create(student_id: 1, project_id: 1, submission_date: Date.today + 30.days)
+
+
+stu = Student.find(1)
+
+stu.projects # It will give the list of all projects by kushal
+
+pro.students # It will give all the student
+
+```
+
+### Create One to One Relation
+- It can be used in department like one *department* one have one *manager*
+##### Steps
+- Create a demo model
+- Create a sub_demo model `rails g model sub_demo title:string  demo:references`
+- Run the migration
+- Add the association in `demo model` 
+```rb
+class Demo < ApplicationRecord
+  has_one :sub_demo
+end
+```
+
+```rb
+class SubDemo < ApplicationRecord
+  belongs_to :demo
+end
+```
+

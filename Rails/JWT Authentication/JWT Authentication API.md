@@ -43,6 +43,7 @@ end
 
 9. Create a `create` action in **UserController** to *register* an user and return a token.
 ```rb
+
 class UsersController < ApplicationController
   def create
     @user = User.create(user_params)

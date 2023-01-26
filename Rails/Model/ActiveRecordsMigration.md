@@ -146,11 +146,11 @@ class ChangeTypeInDemos < ActiveRecord::Migration[7.0]
 end
 ```
 
-Run a specific migration <br>
+Run a specific migration 
 `rails db:migrate VERSION=20080906120000`
 
-Rollback last migrations <br>
+Rollback last migrations 
 `rails db:rollback VERSION=2000329393284`
 
-Rollback 'n' steps <br>
+Rollback 'n' steps 
 `rails db:migrate STEP=3`
