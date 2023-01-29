@@ -1,6 +1,5 @@
 
 #### Factory Function
-
 ```js
 function personFactory(name){
 	return {
@@ -13,8 +12,6 @@ function personFactory(name){
 
 const me = personFactory("Kushal")
 const ben = personFactory("Ben")
-
-
 ```
 1. the *talk()* function is *copied* in both object so this function *not same* in memory.
 2. If we want to change the logic of the function we have to change in all the objects seperately.
