@@ -28,7 +28,7 @@ Person.prototype.talk = function(){
 ```
 
 # Prototypal Inheritance
-[[2 Prototyes|Prototypes]]
+[[2 Prototypes|Prototypes]]
 When we create a JS Class it is creating a function underneath
 ```js
 function Person(){}
