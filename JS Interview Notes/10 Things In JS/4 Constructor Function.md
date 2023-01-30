@@ -1,5 +1,7 @@
 Constructor function are somewhat similar to factory function but it do not return object directly instead there is *this* and *new* keywords are involved.
 
+> **NOTE** : Classes in JS are basically constructor function under the hood
+
 Constructor function by convention start with *capital letter* 
 ```js
 function Person(name){

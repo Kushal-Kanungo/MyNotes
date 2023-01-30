@@ -14,12 +14,13 @@ const me = personFactory("Kushal")
 const ben = personFactory("Ben")
 ```
 1. the *talk()* function is *copied* in both object so this function *not same* in memory.
-2. If we want to change the logic of the function we have to change in all the objects seperately.
-3. So we are not using inheritance hierarcy. 
+2. We are occupying more space in memory
+3. If we want to *change the logic* of the function we have to change in all the *objects seperately*.
+4. So we are not using inheritance hierarcy. 
 
 To add inheritance in factory we can do this:
 ```js
-function myCoolProto(){
+const myCoolProto = {
 	talk(){
 		return `Hello, I am ${this.name}`
 	}

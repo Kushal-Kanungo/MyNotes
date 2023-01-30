@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d3fc42a05d94526b",
+        "id": "a1074c2bdbae77ca",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd52c030f493867",
+            "id": "5935b2fda6e90ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Interview Notes/10 Things In JS/5 Factory vs Constructor.md",
+                "file": "JS Interview Notes/10 Things In JS/4 Constructor Function.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f89f469d10a94e62",
+            "id": "30dd4eebbea5e9de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Setup Two Accounts.md",
+                "file": "JS Interview Notes/10 Things In JS/6 this keyword.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Setup Two Accounts.md",
+                "file": "JS Interview Notes/10 Things In JS/6 this keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Setup Two Accounts.md",
+                "file": "JS Interview Notes/10 Things In JS/6 this keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Setup Two Accounts.md"
+                "file": "JS Interview Notes/10 Things In JS/6 this keyword.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f89f469d10a94e62",
+  "active": "30dd4eebbea5e9de",
   "lastOpenFiles": [
-    "JS Interview Notes/10 Things In JS/5 Factory vs Constructor.md",
+    "JS Interview Notes/Call Bind & Apply.md",
+    "JS Interview Notes/10 Things In JS/6 this keyword.md",
     "JS Interview Notes/10 Things In JS/4 Constructor Function.md",
+    "JS Interview Notes/10 Things In JS/5 Factory vs Constructor.md",
+    "TODO.md",
+    "Git/Setup Two Accounts.md",
     "JS Interview Notes/10 Things In JS/3 Factory Function.md",
     "Rails/Model/Associations.md",
     "Untitled.md",
-    "Rails/Model/ActiveRecordsValidations.md",
-    "Rails/Model/ActiveRecordsMigration.md",
-    "Rails/Model/ActiveRecords.md",
-    "Rails/Model/ActivateRecordsErrors.md",
-    "Rails/JWT Authentication/JWT Authentication API.md"
+    "Rails/Model/ActiveRecordsValidations.md"
   ]
 }
