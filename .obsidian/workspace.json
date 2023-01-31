@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16ac7d75fe5d4bb5",
+        "id": "2b1734c73b0c279b",
         "type": "tabs",
         "children": [
           {
-            "id": "bac17f15a004fa8a",
+            "id": "55e581d0eadfd9f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Interview Notes/10 Things In JS/3 Factory Function.md",
+                "file": "Rails/Model/QueryInterface.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Interview Notes/10 Things In JS/3 Factory Function.md",
+                "file": "Rails/Model/QueryInterface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS Interview Notes/10 Things In JS/3 Factory Function.md",
+                "file": "Rails/Model/QueryInterface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Interview Notes/10 Things In JS/3 Factory Function.md"
+                "file": "Rails/Model/QueryInterface.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bac17f15a004fa8a",
+  "active": "55e581d0eadfd9f3",
   "lastOpenFiles": [
-    "JS Interview Notes/10 Things In JS/2 Prototypes.md",
-    "JS Interview Notes/10 Things In JS/1 Inheritance.md",
-    "JS Interview Notes/10 Things In JS/7 Arrow Function.md",
-    "JS Interview Notes/10 Things In JS/6 this keyword.md",
+    "Rails/Model/Associations.md",
+    "Rails/Model/QueryInterface.md",
     "JS Interview Notes/10 Things In JS/8 Higher Order Functions.md",
-    "JS Interview Notes/10 Things In JS/9 Closures.md",
-    "JS Interview Notes/10 Things In JS/10 Value vs Reference.md",
-    "JS Interview Notes/10 Things In JS/4 Constructor Function.md",
-    "JS Interview Notes/10 Things In JS/5 Factory vs Constructor.md",
+    "JS Interview Notes/Event Listners.md",
+    "JS Interview Notes/Event Loop.md",
+    "JS Interview Notes/Functions.md",
+    "JS Interview Notes/Hoisting.md",
+    "JS Interview Notes/Infinite Currying.md",
+    "JS Interview Notes/CallBack Functions.md",
     "JS Interview Notes/Call Bind & Apply.md"
   ]
 }

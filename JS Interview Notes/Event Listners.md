@@ -1,3 +1,4 @@
+
 We attach a **callback** function with an event and whenever that event occurs that function is called.
 
 ```js

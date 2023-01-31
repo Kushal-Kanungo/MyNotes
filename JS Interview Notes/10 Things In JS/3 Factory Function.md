@@ -21,6 +21,6 @@ ben.talk() // Hello I am ben
 - Simple 
 - Reduce Code Duplication
 - More Secure
-
+[x]  [x]  
 > One good example can be to create HTMLelement through factory functions. By passing the data like `type`, `color`, `text` etc
 
