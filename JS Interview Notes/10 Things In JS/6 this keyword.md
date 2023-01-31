@@ -49,4 +49,34 @@ me.talk() // It will print me object
 ```
 
 - Inside a constructor function **this** represent the object of  that constructor function 
-- But when a **callback** function 
+- But in a **callback** function inside constructor function runs totally in different environment.
+```js
+function Person(n){
+	this.name = n
+	this.talk = function(){
+		console.log(this) // Here this is the object of person
+	}
+	setTimeout(function(){
+		console.log(this) // print window object
+	}, 100)
+}
+
+const me = Person("Kushal")
+ 
+me.talk() // It will print me object 
+
+```
+
+#### One to to fix this is to use **bind**.
+```js
+setTimeout(function(){
+		console.log(this) // Now it will print peson object
+	}.bind(this), 100)
+```
+
+#### Another way is to use arrow func`()=>{}`
+```js
+setTimeout(()=>{
+		console.log(this) // print window object
+	}, 100)
+```
