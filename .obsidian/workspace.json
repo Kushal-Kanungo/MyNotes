@@ -30,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35de5c83637b9d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rails/Model/QueryInterface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37c1ed3d3b43486a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rails/Model/Joining Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44cb0a76e60c2154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rails/Model/Eager Loading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e23212b9e95af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rails/Model/Scopes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30dd4eebbea5e9de",
+  "active": "35de5c83637b9d2f",
   "lastOpenFiles": [
+    "Rails/Model/Scopes.md",
     "Rails/Model/Enums.md",
+    "Rails/Model/Eager Loading.md",
+    "Rails/Model/Joining Tables.md",
+    "Rails/Model/Locking Records.md",
+    "Rails/Model/QueryInterface.md",
     "Rails/Model/Associations.md",
     "Rails/Model/ActiveRecordsValidations.md",
     "Rails/Model/ActiveRecords.md",
-    "Rails/Model/ActiveRecordsMigration.md",
-    "Rails/Model/ActivateRecordsErrors.md",
-    "Rails/Model/QueryInterface.md",
-    "Rails/Securing Rails Application.md",
-    "Rails/Sessions.md",
-    "JS Interview Notes/10 Things In JS/10 Value vs Reference.md"
+    "Rails/Model/ActiveRecordsMigration.md"
   ]
 }

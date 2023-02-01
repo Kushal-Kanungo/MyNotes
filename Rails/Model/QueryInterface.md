@@ -151,15 +151,101 @@ Lesser / Greater Conditions (*Beginless and endless ranges*)
 Book.where(created_at: (Time.now.midnight - 1.day)..)
 ```
 
-Subset Conditions (Converted to **IN** in sql)
+**Subset Conditions** (Converted to **IN** in sql)
 ```rb
 # IN
 Customer.where(orders_count: [1,3,5])
 
-#Not IN
+# Not IN
 Customer.where.not(orders_count: [1,3,5])
+```
 
+**OR Conditions**
+```rb
+Customer.where(last_name: 'Smith').or(Customer.where(orders_count: [1,3,5]))
+```
+
+**And Conditions**
+- We can chain `where` for and conditions
+- We can also use like we used `or`
+```rb
+Customer.where(last_name: 'Smith').where(orders_count: [1,3,5]))
+```
+#### 8. ordering
+```rb
+Book.order(:created_at)
+
+Book.order(:created_at :desc)
+```
+
+**Order by multiple attributes**
+We can chain multiple attributes
+```rb
+Book.order("title ASC").order("created_at DESC")
+```
+
+#### 9. Selecting Specific Fields
+```rb
+Book.select(:isbn, :out_of_print)
+# OR
+Book.select("isbn, out_of_print")
+```
+
+- **distinct**
+```rb
+Customer.select(:last_name).distinct
+```
+
+#### 10. Limit and Offset
+```rb
+Customer.limit(5).offset(30)
+```
+
+#### 11. Group
+```rb
+Order.select("created_at").group("created_at")
+```
+
+#### 12. Count
+```rb
+Order.select("created_at").group("created_at").count
+```
+
+#### 13. Having
+```rb
+Order.select("created_at, sum(total) as total_price").
+  group("created_at").having("sum(total) > ?", 200)
 
 ```
 
-OR Conditions
+
+
+#### 14. Overriding Conditions
+- **unscope**
+To remove a condition use *unscope()*
+```rb
+# It will remove order condition
+Book.where('id > 100').limit(20).order('id desc').unscope(:order)
+
+```
+
+- **only**
+TO allow only passed attributes
+```rb
+Book.where('id > 10').limit(20).order('id desc').only(:order, :where)
+
+# it will remove limit from the query
+```
+
+- **reselect**
+To change attributes in reselect
+```rb
+Book.select(:title, :isbn).reselect(:created_at)
+
+# SELECT books.created_at FROM books
+
+```
+#### 15. pluck
+It can be used to query single or multiple columns from the underlying table of a model.
+- It accepts a **list of column names** as an argument 
+- Returns an **array of values** of the specified columns with the corresponding data type.
