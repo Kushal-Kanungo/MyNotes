@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1734c73b0c279b",
+        "id": "a1074c2bdbae77ca",
         "type": "tabs",
         "children": [
           {
-            "id": "55e581d0eadfd9f3",
+            "id": "5935b2fda6e90ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS Interview Notes/10 Things In JS/4 Constructor Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30dd4eebbea5e9de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 200
   },
   "right": {
     "id": "4ac8225212ce4bbd",
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55e581d0eadfd9f3",
+  "active": "30dd4eebbea5e9de",
   "lastOpenFiles": [
+    "Rails/Model/Enums.md",
     "Rails/Model/Associations.md",
+    "Rails/Model/ActiveRecordsValidations.md",
+    "Rails/Model/ActiveRecords.md",
+    "Rails/Model/ActiveRecordsMigration.md",
+    "Rails/Model/ActivateRecordsErrors.md",
     "Rails/Model/QueryInterface.md",
-    "JS Interview Notes/10 Things In JS/8 Higher Order Functions.md",
-    "JS Interview Notes/Event Listners.md",
-    "JS Interview Notes/Event Loop.md",
-    "JS Interview Notes/Functions.md",
-    "JS Interview Notes/Hoisting.md",
-    "JS Interview Notes/Infinite Currying.md",
-    "JS Interview Notes/CallBack Functions.md",
-    "JS Interview Notes/Call Bind & Apply.md"
+    "Rails/Securing Rails Application.md",
+    "Rails/Sessions.md",
+    "JS Interview Notes/10 Things In JS/10 Value vs Reference.md"
   ]
 }

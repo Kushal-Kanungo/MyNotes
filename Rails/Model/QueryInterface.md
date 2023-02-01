@@ -94,3 +94,72 @@ end
 ##### Some options we can pass
 **:batch_size**, **:start**, **:finish**
 
+
+
+## Conditions
+
+#### 7. where
+It allows to add specific conditions to limit the records returned.
+
+1. **Pure String Condition**
+	We can pass string conditions but it will make our application vulnerable for SQL Injection
+	```rb
+Book.where("title = 'Introduction to Algo'")
+```
+
+2. **Array Condtion** `( ? )`
+```rb
+
+Book.where("title = ?", params[:title])
+
+# We can use multiple ?
+Book.where("title = ? AND out_of_print = ?", params[:title], false)
+```
+
+3. **Placeholder Condition** `:key`
+```rb
+Book.where("created_at >= :start_date AND created_at<= :end_date", {start_date: params[:start_date], end_date: params[:end_date]})
+```
+**STEPS** : 
+	- Pass **string** with string `:keys` 
+	- And then **hash** with key and value defined
+
+4. Condition for **LIKE**
+```rb
+Book.where("title like ?", params[:title] + "%")
+```
+> NOTE: If `%` or `_` are present in `params[:title]` then it will generate unexpected results. So use `sanitize_sql_like` method.
+```rb
+Book.where("title like ?", Book.sanitize_sql_like(params[:title] + "%"))
+```
+
+5. **Hash Conditions**
+
+Equality Condition
+```rb
+Book.where(out_of_print: true)
+Book.where('out_of_print' => true)
+```
+
+Range Condition
+```rb
+Book.where(created_at: (Time.now.midnight - 1.day)..Time.now.midnight)
+```
+
+Lesser / Greater Conditions (*Beginless and endless ranges*)
+```rb
+Book.where(created_at: (Time.now.midnight - 1.day)..)
+```
+
+Subset Conditions (Converted to **IN** in sql)
+```rb
+# IN
+Customer.where(orders_count: [1,3,5])
+
+#Not IN
+Customer.where.not(orders_count: [1,3,5])
+
+
+```
+
+OR Conditions
