@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a1074c2bdbae77ca",
+        "id": "b31adcef59fe4494",
         "type": "tabs",
         "children": [
           {
-            "id": "5935b2fda6e90ea0",
+            "id": "16ce32209121cb6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Interview Notes/10 Things In JS/4 Constructor Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30dd4eebbea5e9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Model/QueryInterface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35de5c83637b9d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Model/QueryInterface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37c1ed3d3b43486a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Model/Joining Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44cb0a76e60c2154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Model/Eager Loading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38e23212b9e95af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Model/Scopes.md",
+                "file": "Angular/Route Guard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rails/Model/QueryInterface.md",
+                "file": "Angular/Route Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rails/Model/QueryInterface.md",
+                "file": "Angular/Route Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rails/Model/QueryInterface.md"
+                "file": "Angular/Route Guard.md"
               }
             }
           }
@@ -207,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35de5c83637b9d2f",
+  "active": "16ce32209121cb6b",
   "lastOpenFiles": [
     "Rails/Model/Scopes.md",
-    "Rails/Model/Enums.md",
     "Rails/Model/Eager Loading.md",
     "Rails/Model/Joining Tables.md",
-    "Rails/Model/Locking Records.md",
     "Rails/Model/QueryInterface.md",
+    "Rails/Model/Enums.md",
+    "Rails/Model/Locking Records.md",
     "Rails/Model/Associations.md",
     "Rails/Model/ActiveRecordsValidations.md",
     "Rails/Model/ActiveRecords.md",
