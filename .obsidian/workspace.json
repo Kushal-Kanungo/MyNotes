@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Rails/Testing/3 Controllers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Rails/Testing/3 Controllers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Rails/Testing/3 Controllers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md"
+                "file": "Rails/Testing/3 Controllers.md"
               }
             }
           }
@@ -173,15 +173,15 @@
   },
   "active": "ca3ea21379890f64",
   "lastOpenFiles": [
+    "Rails/Testing/2 Model Testing.md",
+    "Rails/Views/Active Model Seializer.md",
     "Rails/Views/JBuilder.md",
     "Rails/Testing/3 Controllers.md",
     "Rails/Model/ActiveRecordsValidations.md",
-    "Rails/Testing/2 Model Testing.md",
     "Rails/Testing/1 Setting Up.md",
     "Rails/Untitled.md",
     "JS Interview Notes/IIFE.md",
     "Angular/Operators.md",
-    "JS Interview Notes/Modules/Module.md",
-    "Angular/Observables.md"
+    "JS Interview Notes/Modules/Module.md"
   ]
 }
