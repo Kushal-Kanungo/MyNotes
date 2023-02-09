@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3dda7f2f951d1142",
+        "id": "76ea760ab71f0b40",
         "type": "tabs",
         "children": [
           {
-            "id": "af0797e488086aab",
+            "id": "9d6fb118aaa4215f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rails/Testing/1 Setting Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec00af37ba52aa44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Model/ActiveRecordsValidations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca3ea21379890f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Git/Setup Two Accounts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Git/Setup Two Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Git/Setup Two Accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md"
+                "file": "Git/Setup Two Accounts.md"
               }
             }
           }
@@ -171,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca3ea21379890f64",
+  "active": "9d6fb118aaa4215f",
   "lastOpenFiles": [
-    "Rails/Views/JBuilder.md",
-    "Rails/Testing/3 Controllers.md",
-    "Rails/Model/ActiveRecordsValidations.md",
-    "Rails/Testing/2 Model Testing.md",
-    "Rails/Testing/1 Setting Up.md",
-    "Rails/Untitled.md",
+    "JS Interview Notes/Parameters VS Arguments.md",
+    "JS Interview Notes/Infinite Currying.md",
     "JS Interview Notes/IIFE.md",
-    "Angular/Operators.md",
-    "JS Interview Notes/Modules/Module.md",
-    "Angular/Observables.md"
+    "JS Interview Notes/Functions.md",
+    "JS Interview Notes/Event Loop.md",
+    "JS Interview Notes/Event Listners.md",
+    "JS Interview Notes/CallBack Functions.md",
+    "JS Interview Notes/Call Bind & Apply.md",
+    "JS Interview Notes/Modules/ES6 Modules.md",
+    "JS Interview Notes/Modules/Module Pattern.md"
   ]
 }

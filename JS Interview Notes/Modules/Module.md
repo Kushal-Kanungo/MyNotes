@@ -8,4 +8,4 @@
 3. Functional Scope
 4. Block Scope
 
-The smallest module we can call to 
+The smallest module we can call to is an [[IIFE]]

@@ -1,4 +1,4 @@
-It is another way to render views in rails.
+zIt is another way to render views in rails.
 
 ### Steps to follow
 1. Add `gem "jbuilder"` in **Gemfile**.
