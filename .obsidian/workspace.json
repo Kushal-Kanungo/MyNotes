@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Setup Two Accounts.md",
+                "file": "Rails/Testing/1 Setting Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec00af37ba52aa44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rails/Model/ActiveRecordsValidations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca3ea21379890f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rails/Views/Active Model Seializer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Setup Two Accounts.md",
+                "file": "Rails/Views/Active Model Seializer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Setup Two Accounts.md",
+                "file": "Rails/Views/Active Model Seializer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Setup Two Accounts.md"
+                "file": "Rails/Views/Active Model Seializer.md"
               }
             }
           }
@@ -148,15 +172,15 @@
   },
   "active": "9d6fb118aaa4215f",
   "lastOpenFiles": [
-    "JS Interview Notes/Parameters VS Arguments.md",
-    "JS Interview Notes/Infinite Currying.md",
+    "Rails/Views/JBuilder.md",
+    "Rails/Testing/3 Controllers.md",
+    "Rails/Model/ActiveRecordsValidations.md",
+    "Rails/Testing/2 Model Testing.md",
+    "Rails/Testing/1 Setting Up.md",
+    "Rails/Untitled.md",
     "JS Interview Notes/IIFE.md",
-    "JS Interview Notes/Functions.md",
-    "JS Interview Notes/Event Loop.md",
-    "JS Interview Notes/Event Listners.md",
-    "JS Interview Notes/CallBack Functions.md",
-    "JS Interview Notes/Call Bind & Apply.md",
-    "JS Interview Notes/Modules/ES6 Modules.md",
-    "JS Interview Notes/Modules/Module Pattern.md"
+    "Angular/Operators.md",
+    "JS Interview Notes/Modules/Module.md",
+    "Angular/Observables.md"
   ]
 }

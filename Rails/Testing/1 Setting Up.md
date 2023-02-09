@@ -1,4 +1,4 @@
-- Add `spec` and `factory_bot` in **Gemfile**
+ - Add `spec` and `factory_bot` in **Gemfile**
 ```rb
 group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
@@ -21,3 +21,9 @@ end
 ```
 - Run migrate in testing environment
 - `RAILS_ENV=test rails db:migrate`
+
+- In *.rspec* file add this line `--format documentation` for better results when run a test case
+
+## Factory BOT
+1. **FactoryBot.create(:user)** it will create and save.
+2. **FactoryBot.build(:user)** it will only create.
