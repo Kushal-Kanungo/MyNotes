@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76ea760ab71f0b40",
+        "id": "ee32f1a06b92fa66",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6fb118aaa4215f",
+            "id": "210dc96a68f7aa0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rails/Testing/1 Setting Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec00af37ba52aa44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Model/ActiveRecordsValidations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca3ea21379890f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Rails/JWT Authentication/JWT Authentication API.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Rails/JWT Authentication/JWT Authentication API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md",
+                "file": "Rails/JWT Authentication/JWT Authentication API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rails/Views/Active Model Seializer.md"
+                "file": "Rails/JWT Authentication/JWT Authentication API.md"
               }
             }
           }
@@ -170,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d6fb118aaa4215f",
+  "active": "210dc96a68f7aa0d",
   "lastOpenFiles": [
-    "Rails/Views/JBuilder.md",
-    "Rails/Testing/3 Controllers.md",
-    "Rails/Model/ActiveRecordsValidations.md",
-    "Rails/Testing/2 Model Testing.md",
-    "Rails/Testing/1 Setting Up.md",
-    "Rails/Untitled.md",
-    "JS Interview Notes/IIFE.md",
-    "Angular/Operators.md",
-    "JS Interview Notes/Modules/Module.md",
-    "Angular/Observables.md"
+    "JS Interview Notes/Event Loop.md",
+    "Rails/Controller/Active Storage.md",
+    "Angular/Upload Progress.md",
+    "Rails/Model/Associations.md",
+    "Rails/Controller/Routing.md",
+    "JS Interview Notes/2 Pillars Of JS/Function Basics.md",
+    "JS Interview Notes/Untitled.md",
+    "JS Interview Notes/Functions.md",
+    "JS Interview Notes/Event Listners.md",
+    "Untitled.md"
   ]
 }

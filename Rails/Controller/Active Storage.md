@@ -1,9 +1,9 @@
-1. First install active storage
-2. `rails active_storage:install`
-3. It will generate a migration where we will store our metadata
-4. Run the migration
-5. Set up the relationship by adding `has_one_attached: <cover_image>` in the model.
-6. Now to upload the image add `form.file_field` in the form view paratial
+	1. First install active storage
+1. `rails active_storage:install`
+2. It will generate a migration where we will store our metadata
+3. Run the migration
+4. Set up the relationship by adding `has_one_attached: <cover_image>` in the model.
+5. Now to upload the image add `form.file_field` in the form view paratial
 ```html.erb
 
   <div>
