@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "bfe10299763737b9",
+            "id": "7dcea39408240796",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfe10299763737b9",
+  "active": "7dcea39408240796",
   "lastOpenFiles": [
+    "Git/1 Config.md",
+    "Git/Basic GIT.md",
+    "Git/Setup Two Accounts.md",
+    "TODO.md",
+    "README.md",
+    "Untitled.md",
     "JS Interview Notes/Threads and Concurrency.md",
     "Rails/JWT Authentication/JWT Authentication API.md",
     "JS Interview Notes/Event Loop.md",
-    "Rails/Controller/Active Storage.md",
-    "Angular/Upload Progress.md",
-    "Rails/Model/Associations.md",
-    "Rails/Controller/Routing.md",
-    "JS Interview Notes/2 Pillars Of JS/Function Basics.md",
-    "JS Interview Notes/Functions.md",
-    "JS Interview Notes/Event Listners.md"
+    "Rails/Controller/Active Storage.md"
   ]
 }
