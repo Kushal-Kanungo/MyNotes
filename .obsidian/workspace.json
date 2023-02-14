@@ -42,9 +42,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c9de8c3b9195f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Advanced Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c0e810a0b398c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Branching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ab305147d0e527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Advanced Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d17ac2a5bc9e5436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Time Travel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18533b83202fb333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Restore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Basic GIT.md",
+                "file": "Git/Git Restore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Basic GIT.md",
+                "file": "Git/Git Restore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Basic GIT.md"
+                "file": "Git/Git Restore.md"
               }
             }
           }
@@ -171,17 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfe10299763737b9",
+  "active": "18533b83202fb333",
   "lastOpenFiles": [
+    "Git/Time Travel.md",
+    "Git/Advanced Git.md",
+    "Git/Basic GIT.md",
+    "Git/Merging.md",
+    "Git/Branching.md",
+    "Git/Setup Two Accounts.md",
+    "Git/Stash.md",
     "JS Interview Notes/Threads and Concurrency.md",
     "Rails/JWT Authentication/JWT Authentication API.md",
-    "JS Interview Notes/Event Loop.md",
-    "Rails/Controller/Active Storage.md",
-    "Angular/Upload Progress.md",
-    "Rails/Model/Associations.md",
-    "Rails/Controller/Routing.md",
-    "JS Interview Notes/2 Pillars Of JS/Function Basics.md",
-    "JS Interview Notes/Functions.md",
-    "JS Interview Notes/Event Listners.md"
+    "JS Interview Notes/Event Loop.md"
   ]
 }
