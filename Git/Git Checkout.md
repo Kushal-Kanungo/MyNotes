@@ -1,3 +1,6 @@
+- It can be used to switch to a branch
+#### git checkout branchname
+
 - To go to a specific commit do
 ```bash
 git checkout <commitID>
