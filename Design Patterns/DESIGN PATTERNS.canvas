@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"Design Patterns/Designing Patterns.md","id":"742f0a229159a614","x":-540,"y":-780,"width":740,"height":280},
+		{"type":"file","file":"Design Patterns/Behavioral.md","id":"21e23e1ba0b47634","x":400,"y":-277,"width":671,"height":215},
+		{"type":"file","file":"Design Patterns/Structural.md","id":"6bdd671b3d5214ec","x":-480,"y":-263,"width":797,"height":223},
+		{"type":"file","file":"Design Patterns/Singleton Design Pattern.md","id":"de4c8bd774ae61c1","x":-1620,"y":200,"width":480,"height":140},
+		{"type":"file","file":"Design Patterns/Creational.md","id":"9572a99f96b0b71e","x":-1320,"y":-299,"width":740,"height":260},
+		{"id":"a397e6f28303c523","x":-1040,"y":210,"width":620,"height":130,"type":"file","file":"Design Patterns/Factory Method Design Pattern.md"}
+	],
+	"edges":[
+		{"id":"56e4e88c3773c53e","fromNode":"742f0a229159a614","fromSide":"bottom","toNode":"9572a99f96b0b71e","toSide":"top"},
+		{"id":"a6ad2c95f7bcf935","fromNode":"742f0a229159a614","fromSide":"bottom","toNode":"21e23e1ba0b47634","toSide":"top"},
+		{"id":"3da4d54eab725ced","fromNode":"742f0a229159a614","fromSide":"bottom","toNode":"6bdd671b3d5214ec","toSide":"top"},
+		{"id":"276e3427180745a7","fromNode":"9572a99f96b0b71e","fromSide":"bottom","toNode":"de4c8bd774ae61c1","toSide":"top"},
+		{"id":"f8020d1524470f22","fromNode":"9572a99f96b0b71e","fromSide":"bottom","toNode":"a397e6f28303c523","toSide":"top"}
+	]
+}
