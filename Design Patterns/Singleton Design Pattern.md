@@ -4,7 +4,7 @@
 - Singleton classes are used for *logging*, driver objects, caching and thread pool, *database connections*.
 
 #### An Implementation of singleton class 
-- *It should have only one instance.*
+- *It must have only one instance.*
 - *Instance should be globally accessible.*
 
 #### Initialization Types

@@ -32,7 +32,7 @@ const meTalk = talk.bind(me) // It will give a function and for talk function me
 
 Read also : [[Call Bind & Apply]] to learn about binding this through function to a object.
 
-#### this inside a Constructor Function
+##### this inside a Constructor Function
 
 ```js
 function Person(n){
@@ -67,16 +67,18 @@ me.talk() // It will print me object
 
 ```
 
-#### One to to fix this is to use **bind**.
+##### One to to fix this is to use **bind**.
 ```js
 setTimeout(function(){
 		console.log(this) // Now it will print peson object
 	}.bind(this), 100)
 ```
 
-#### Another way is to use arrow func`()=>{}`
+##### Another way is to use arrow func`()=>{}`
 ```js
 setTimeout(()=>{
 		console.log(this) // print window object
 	}, 100)
 ```
+
+NOTE: In an [[7 Arrow Function |Arrow Function]] _this_ keyword represent the **surrounding object** to the object that calling that arrow function. 

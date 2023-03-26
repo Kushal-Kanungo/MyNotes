@@ -1,6 +1,6 @@
 - Subject is also a type of observable to which we can **subscribe()**.
 - But on Subject we can also use **next()** from the outside.
-- In Short It can behave like **Observable** and **Observer**.
+- In Short It can behave like **[[Observable]]** and **Observer**.
 
 The functionality we achieved by **EventEmitter** in Angular can be more easily don by the use of **Subject**.
 

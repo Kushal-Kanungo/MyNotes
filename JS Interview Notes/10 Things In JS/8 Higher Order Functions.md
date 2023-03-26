@@ -1,3 +1,5 @@
+### High Order Functions
+
 The functions which 
 1. Either takes *another function as a parameter*
 2. Or *return another function*

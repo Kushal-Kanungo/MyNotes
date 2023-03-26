@@ -31,6 +31,6 @@
 - **git diff --staged** : not very friendly use *VSCODE*.
 
 ## Visual Diff Tools
-- [[1 Config#Default Visual Diff Tools |Config]]
+- [[Git Configuration#Default Visual Diff Tools |Config]]
 - **git difftool --staged**
 - **git difftool**

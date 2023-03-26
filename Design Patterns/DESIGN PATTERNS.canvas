@@ -1,17 +1,23 @@
 {
 	"nodes":[
-		{"type":"file","file":"Design Patterns/Designing Patterns.md","id":"742f0a229159a614","x":-540,"y":-780,"width":740,"height":280},
-		{"type":"file","file":"Design Patterns/Behavioral.md","id":"21e23e1ba0b47634","x":400,"y":-277,"width":671,"height":215},
-		{"type":"file","file":"Design Patterns/Structural.md","id":"6bdd671b3d5214ec","x":-480,"y":-263,"width":797,"height":223},
-		{"type":"file","file":"Design Patterns/Singleton Design Pattern.md","id":"de4c8bd774ae61c1","x":-1620,"y":200,"width":480,"height":140},
-		{"type":"file","file":"Design Patterns/Creational.md","id":"9572a99f96b0b71e","x":-1320,"y":-299,"width":740,"height":260},
-		{"id":"a397e6f28303c523","x":-1040,"y":210,"width":620,"height":130,"type":"file","file":"Design Patterns/Factory Method Design Pattern.md"}
+		{"type":"file","file":"Design Patterns/Strategy Design Pattern.md","id":"2a4a0e1ec6cc1a5f","x":800,"y":269,"width":594,"height":270},
+		{"type":"file","file":"Design Patterns/Observer Design Pattern.md","id":"06e8645cc31bc62c","x":1550,"y":269,"width":640,"height":270},
+		{"type":"file","file":"Design Patterns/Decorator Pattern.md","id":"06dce6cf00f63c1c","x":2310,"y":269,"width":644,"height":270},
+		{"type":"file","file":"Design Patterns/Structural.md","id":"6bdd671b3d5214ec","x":-320,"y":-240,"width":776,"height":260,"color":"5"},
+		{"type":"file","file":"Design Patterns/Designing Patterns.md","id":"742f0a229159a614","x":-292,"y":-760,"width":720,"height":280,"color":"1"},
+		{"type":"file","file":"Design Patterns/Behavioral.md","id":"21e23e1ba0b47634","x":1097,"y":-240,"width":653,"height":260,"color":"4"},
+		{"type":"file","file":"Design Patterns/Creational.md","id":"9572a99f96b0b71e","x":-1640,"y":-240,"width":720,"height":260,"color":"2"},
+		{"type":"file","file":"Design Patterns/Singleton Design Pattern.md","id":"de4c8bd774ae61c1","x":-2040,"y":200,"width":480,"height":280},
+		{"type":"file","file":"Design Patterns/FactoryMethod Design Pattern.md","id":"a397e6f28303c523","x":-1040,"y":210,"width":603,"height":270}
 	],
 	"edges":[
 		{"id":"56e4e88c3773c53e","fromNode":"742f0a229159a614","fromSide":"bottom","toNode":"9572a99f96b0b71e","toSide":"top"},
 		{"id":"a6ad2c95f7bcf935","fromNode":"742f0a229159a614","fromSide":"bottom","toNode":"21e23e1ba0b47634","toSide":"top"},
 		{"id":"3da4d54eab725ced","fromNode":"742f0a229159a614","fromSide":"bottom","toNode":"6bdd671b3d5214ec","toSide":"top"},
 		{"id":"276e3427180745a7","fromNode":"9572a99f96b0b71e","fromSide":"bottom","toNode":"de4c8bd774ae61c1","toSide":"top"},
-		{"id":"f8020d1524470f22","fromNode":"9572a99f96b0b71e","fromSide":"bottom","toNode":"a397e6f28303c523","toSide":"top"}
+		{"id":"f8020d1524470f22","fromNode":"9572a99f96b0b71e","fromSide":"bottom","toNode":"a397e6f28303c523","toSide":"top"},
+		{"id":"ae5afc7ff428537b","fromNode":"21e23e1ba0b47634","fromSide":"bottom","toNode":"2a4a0e1ec6cc1a5f","toSide":"top"},
+		{"id":"d826c87939f18e27","fromNode":"21e23e1ba0b47634","fromSide":"bottom","toNode":"06e8645cc31bc62c","toSide":"top"},
+		{"id":"76650062b1cc1c45","fromNode":"21e23e1ba0b47634","fromSide":"bottom","toNode":"06dce6cf00f63c1c","toSide":"top"}
 	]
 }
