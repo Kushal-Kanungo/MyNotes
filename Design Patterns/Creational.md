@@ -9,3 +9,4 @@ One Good Example will be:
 
 ##### Some important creational design patterns are
 - [[Singleton Design Pattern]]
+- [[FactoryMethod Design Pattern]]

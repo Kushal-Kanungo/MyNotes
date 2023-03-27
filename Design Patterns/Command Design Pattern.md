@@ -5,6 +5,10 @@
 - So where should we keep the code ?
 - It is very similar to [[Strategy Design Pattern]]
 
+#### ADVANTAGE:
+- _Undoing_ becomes very easy
+- If we want use option to rollback a series of commands
+
 IMP: IN JS we have functions which are _first class citizen_ which we can pass around like commands but to achieve this type of functionality we use **Command Pattern**.
 
 DESIGN 
@@ -41,6 +45,14 @@ class Invoker{
 		this.off = offCommand;
 		this.up = upCommand;
 		this.down = downCommand;
+	}
+	
+	void turnOnTheLight(){
+		this.on.execute()
+	}
+
+	void turnOffTheLight(){
+		this.off.execute()
 	}
 }
 

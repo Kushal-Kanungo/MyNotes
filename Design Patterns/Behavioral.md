@@ -4,3 +4,4 @@ FOR EG. : Behavioral patterns are Chain of responsibility, Command, Interpreter,
 
 1. [[Observer Design Pattern]]
 2. [[Strategy Design Pattern]]
+3. [[Command Design Pattern]]

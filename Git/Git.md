@@ -11,6 +11,7 @@ First Step To Configure git [[Git Configuration]]
 - [[Git Restore]]
 - [[Git Stash]]
 - [[Git Reset]]
+- [[Git Remote]]
 - [[Advanced Git]]
 
 Setup Multiple Github Account with ssh: [[Setup Two Accounts]]
