@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "b244dc89644bce8b",
+        "id": "2e5fc96adb33124e",
         "type": "tabs",
         "children": [
           {
-            "id": "9843e5be76eacdf5",
+            "id": "295bfa614c29d438",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Singleton Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24e16df04a403a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Behavioral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2fb3aa08e55308e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Structural.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +62,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -44,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#webworkers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 312.5026054382324
   },
   "right": {
     "id": "4ac8225212ce4bbd",
@@ -82,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Design Patterns/Singleton Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Design Patterns/Singleton Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,10 +148,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Design Patterns/Singleton Design Pattern.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,42 +172,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9843e5be76eacdf5",
+  "active": "295bfa614c29d438",
   "lastOpenFiles": [
-    "Design Patterns/Creational.md",
-    "Design Patterns/Command Design Pattern.md",
-    "JS Interview Notes/2 Pillars Of JS/Function Basics.md",
-    "JS Interview Notes/Modules/Different Modules.md",
-    "JS Interview Notes/Modules/Module Pattern.md",
-    "JS Interview Notes/Modules/AMD.md",
-    "JS Interview Notes/Modules/Common JS.md",
-    "JS Interview Notes/Modules/ES6 Modules.md",
-    "JS Interview Notes/Modules/Module.md",
-    "Git/Git.md",
-    "Global Execution Contecxt.md",
     "Design Patterns/Designing Patterns.md",
     "Design Patterns/Behavioral.md",
-    "Design Patterns/Adapter Design Pattern.md",
-    "Design Patterns/Structural.md",
-    "Excalidraw/Adapter Pattern Diagram.md",
+    "Design Patterns/Creational.md",
+    "Design Patterns/FactoryMethod Design Pattern.md",
     "Design Patterns/DESIGN PATTERNS.canvas",
-    "Postgres/Backup and Restore Databases.md",
-    "Untitled.canvas",
+    "Design Patterns/Structural.md",
+    "Design Patterns/Strategy Design Pattern.md",
+    "Design Patterns/Observer Design Pattern.md",
+    "Design Patterns/Decorator Pattern.md",
+    "Design Patterns/Command Design Pattern.md",
+    "Design Patterns/Adapter Design Pattern.md",
+    "Design Patterns/Command Pattern.md",
+    "JS Interview Notes/Modules/Different Modules.md",
+    "Global Execution Contecxt.md",
+    "Excalidraw/Adapter Pattern Diagram.md",
+    "Excalidraw/Command Pattern Diagram.md",
     "JS Interview Notes/JS Important Topics.md",
-    "JS Interview Notes/10 Things In JS/Functions/JS Functions.md",
-    "JS Interview Notes/10 Things In JS/Functions/Function Statement (aka Function Declaration).md",
-    "JS Interview Notes/10 Things In JS/Functions/Function Expression.md",
-    "JS Interview Notes/10 Things In JS/Functions/First Class Function.md",
-    "JS Interview Notes/10 Things In JS/Functions/Anonymous Function.md",
+    "Untitled.canvas",
+    "JS Interview Notes/Untitled.canvas",
+    "Observable.md",
+    "Untitled 1.canvas",
+    "JS Interview Notes/10 Things In JS/6 this keyword.md",
+    "JS Interview Notes/10 Things In JS/7 Arrow Function.md",
+    "JS Interview Notes/10 Things In JS/5 Factory vs Constructor.md",
+    "JS Interview Notes/10 Things In JS/1 Inheritance.md",
+    "JS Interview Notes/10 Things In JS/2 Prototypes.md",
+    "JS Interview Notes/10 Things In JS/10 Value vs Reference.md",
+    "JS Interview Notes/10 Things In JS/3 Factory Function.md",
+    "JS Interview Notes/Functional Programming/1 Pure Function.md",
+    "JS Interview Notes/Threads and Concurrency.md",
     "JS Interview Notes/10 Things In JS/Functions",
-    "Git/Git Stash.md",
-    "Git/Git Merg.md",
-    "Git/Git Configuration.md",
-    "Excalidraw",
-    "Postgres",
-    "Pasted image 20230222122414.png",
-    "Pasted image 20230222122229.png",
-    "Pasted image 20230222121040.png",
-    "Pasted image 20230222120959.png"
+    "Excalidraw"
   ]
 }

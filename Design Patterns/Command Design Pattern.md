@@ -14,6 +14,7 @@ IMP: IN JS we have functions which are _first class citizen_ which we can pass a
 DESIGN 
 ![[Command Pattern Diagram]]
 
+#### Command Interface
 ```java
 interface ICommand(){
 	void execute();
@@ -21,8 +22,11 @@ interface ICommand(){
 }
 ```
 
+#### Command Concrete Class
 ```java
 class LightOnCommand implements ICommand{
+	Receiver light;
+	
 	public Command(Receiver Light){
 		this.light = Light
 	}
@@ -33,6 +37,7 @@ class LightOnCommand implements ICommand{
 }
 ```
 
+#### HAS A relation with invoker
 ```java
 class Invoker{
 	ICommand on;
