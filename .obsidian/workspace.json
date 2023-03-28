@@ -4,46 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2e5fc96adb33124e",
+        "id": "018ce4557194938c",
         "type": "tabs",
         "children": [
           {
-            "id": "295bfa614c29d438",
+            "id": "65812c16a158b629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Singleton Design Pattern.md",
+                "file": "Design Patterns/Adapter Design Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24e16df04a403a9b",
+            "id": "932a995ba7b26bce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Behavioral.md",
+                "file": "Design Patterns/Facade Design Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f2fb3aa08e55308e",
+            "id": "77b78551dda5280c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Structural.md",
+                "file": "Design Patterns/Proxy Design Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Singleton Design Pattern.md",
+                "file": "Design Patterns/Proxy Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Singleton Design Pattern.md",
+                "file": "Design Patterns/Proxy Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Singleton Design Pattern.md"
+                "file": "Design Patterns/Proxy Design Pattern.md"
               }
             }
           }
@@ -172,19 +173,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "295bfa614c29d438",
+  "active": "77b78551dda5280c",
   "lastOpenFiles": [
-    "Design Patterns/Designing Patterns.md",
+    "Design Patterns/Facade Design Pattern.md",
+    "Design Patterns/Proxy Design Pattern.md",
+    "Design Patterns/DESIGN PATTERNS.canvas",
+    "Design Patterns/Adapter Design Pattern.md",
+    "Design Patterns/Singleton Design Pattern.md",
+    "Design Patterns/Structural.md",
     "Design Patterns/Behavioral.md",
+    "Design Patterns/Designing Patterns.md",
     "Design Patterns/Creational.md",
     "Design Patterns/FactoryMethod Design Pattern.md",
-    "Design Patterns/DESIGN PATTERNS.canvas",
-    "Design Patterns/Structural.md",
     "Design Patterns/Strategy Design Pattern.md",
     "Design Patterns/Observer Design Pattern.md",
     "Design Patterns/Decorator Pattern.md",
     "Design Patterns/Command Design Pattern.md",
-    "Design Patterns/Adapter Design Pattern.md",
     "Design Patterns/Command Pattern.md",
     "JS Interview Notes/Modules/Different Modules.md",
     "Global Execution Contecxt.md",
@@ -201,9 +205,6 @@
     "JS Interview Notes/10 Things In JS/1 Inheritance.md",
     "JS Interview Notes/10 Things In JS/2 Prototypes.md",
     "JS Interview Notes/10 Things In JS/10 Value vs Reference.md",
-    "JS Interview Notes/10 Things In JS/3 Factory Function.md",
-    "JS Interview Notes/Functional Programming/1 Pure Function.md",
-    "JS Interview Notes/Threads and Concurrency.md",
     "JS Interview Notes/10 Things In JS/Functions",
     "Excalidraw"
   ]
