@@ -21,3 +21,13 @@ Host github.com-work
 ```
 
 > **NOTE** : If this give error than add permission to ssh folder: `chmod 700 ~/.ssh` & `chmod 600 ~/.ssh/*` 
+
+ERROR:
+```bash
+Permissions 0664 for '/home/kushal/.ssh/KushalKanungo' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+```
+SOLUTION: `chmod 400 ~/.ssh/KushalKanungo`
+
+

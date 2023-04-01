@@ -11,9 +11,24 @@
             "id": "c189b1243f933071",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Design Patterns/DESIGN PATTERNS.canvas",
+                "viewState": {
+                  "x": -548.1029919936722,
+                  "y": 391.96662712360796,
+                  "zoom": -1.6472709233529228
+                }
+              }
+            }
+          },
+          {
+            "id": "6715ca3bdefcf57a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Bridge Design Pattern.md",
+                "file": "Ruby/self keyword.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Bridge Design Pattern.md",
+                "file": "Design Patterns/DESIGN PATTERNS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Bridge Design Pattern.md",
+                "file": "Design Patterns/DESIGN PATTERNS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Bridge Design Pattern.md"
+                "file": "Design Patterns/DESIGN PATTERNS.canvas"
               }
             }
           }
@@ -150,10 +165,13 @@
   },
   "active": "c189b1243f933071",
   "lastOpenFiles": [
-    "Design Patterns/DESIGN PATTERNS.canvas",
-    "Excalidraw/Bridge Pattern Diagram.md",
     "Design Patterns/Bridge Design Pattern.md",
     "Design Patterns/Proxy Design Pattern.md",
+    "Ruby/self keyword.md",
+    "Ruby",
+    "Git/Setup Two Accounts.md",
+    "Design Patterns/DESIGN PATTERNS.canvas",
+    "Excalidraw/Bridge Pattern Diagram.md",
     "Design Patterns/Facade Design Pattern.md",
     "Global Execution Contecxt.md",
     "Design Patterns/Adapter Design Pattern.md",
@@ -178,7 +196,6 @@
     "Untitled 1.canvas",
     "JS Interview Notes/10 Things In JS/6 this keyword.md",
     "JS Interview Notes/10 Things In JS/7 Arrow Function.md",
-    "JS Interview Notes/10 Things In JS/5 Factory vs Constructor.md",
     "JS Interview Notes/10 Things In JS/Functions",
     "Excalidraw"
   ]
