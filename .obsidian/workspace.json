@@ -4,74 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "26fb78456cc11c29",
+        "id": "883594bfc7e31b73",
         "type": "tabs",
         "children": [
           {
-            "id": "c189b1243f933071",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Design Patterns/DESIGN PATTERNS.canvas",
-                "viewState": {
-                  "x": -548.1029919936722,
-                  "y": 391.96662712360796,
-                  "zoom": -1.6472709233529228
-                }
-              }
-            }
-          },
-          {
-            "id": "42cf152ec48cab8e",
+            "id": "c373556833fcd279",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONFIGS/Starship Prompt.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c61cdd91a6994c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CONFIGS/Alacritty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de10396e0edd444e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CONFIGS/ZSHRC & ALIASES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6715ca3bdefcf57a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ruby/self keyword.md",
+                "file": "Design Patterns/Decorator Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONFIGS/ZSHRC & ALIASES.md",
+                "file": "Design Patterns/Decorator Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONFIGS/ZSHRC & ALIASES.md",
+                "file": "Design Patterns/Decorator Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONFIGS/ZSHRC & ALIASES.md"
+                "file": "Design Patterns/Decorator Pattern.md"
               }
             }
           }
@@ -200,39 +148,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de10396e0edd444e",
+  "active": "c373556833fcd279",
   "lastOpenFiles": [
-    "CONFIGS/Alacritty.md",
-    "CONFIGS/ZSHRC & ALIASES.md",
-    "CONFIGS/Starship Prompt.md",
     "Design Patterns/DESIGN PATTERNS.canvas",
+    "Angular/Subject.md",
+    "Angular/RXJS.md",
+    "Angular/Observables.md",
+    "Angular/Primeng/Applying CSS On Dynamic Class.md",
+    "Rails/Controller/Routing.md",
+    "Rails/Controller/Best Practice.md",
+    "Rails/Controller/Action Controller.md",
+    "Rails/Controller/Action Controller Callbacks.md",
+    "Rails/Controller/Active Storage.md",
+    "Postgres/Backup and Restore Databases.md",
+    "Untitled.canvas",
+    "README.md",
+    "Global Execution Contecxt.md",
+    "CONFIGS/ZSHRC & ALIASES.md",
+    "CONFIGS/Starship Config.md",
+    "CONFIGS/Alacritty.md",
+    "Angular/Primeng",
+    "Ruby/self keyword.md",
     "CONFIGS/Untitled",
     "CONFIGS",
     "Design Patterns/Bridge Design Pattern.md",
     "Design Patterns/Proxy Design Pattern.md",
-    "Ruby/self keyword.md",
     "Ruby",
     "Git/Setup Two Accounts.md",
     "Excalidraw/Bridge Pattern Diagram.md",
     "Design Patterns/Facade Design Pattern.md",
-    "Global Execution Contecxt.md",
     "Design Patterns/Adapter Design Pattern.md",
     "Design Patterns/Singleton Design Pattern.md",
     "Design Patterns/Structural.md",
     "Design Patterns/Behavioral.md",
-    "Design Patterns/Designing Patterns.md",
-    "Design Patterns/Creational.md",
-    "Design Patterns/FactoryMethod Design Pattern.md",
-    "Design Patterns/Strategy Design Pattern.md",
-    "Design Patterns/Observer Design Pattern.md",
-    "Design Patterns/Decorator Pattern.md",
-    "Design Patterns/Command Design Pattern.md",
-    "Design Patterns/Command Pattern.md",
-    "JS Interview Notes/Modules/Different Modules.md",
-    "Excalidraw/Adapter Pattern Diagram.md",
-    "Excalidraw/Command Pattern Diagram.md",
-    "JS Interview Notes/JS Important Topics.md",
-    "Untitled.canvas",
     "JS Interview Notes/Untitled.canvas",
     "Untitled 1.canvas",
     "JS Interview Notes/10 Things In JS/Functions",

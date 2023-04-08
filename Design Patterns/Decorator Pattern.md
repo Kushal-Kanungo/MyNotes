@@ -1,4 +1,4 @@
-> It is a structural pattern where we use a decorator which is just extended just from the same base  class which `has a` and `is a` relation with the base class. 
+ > It is a structural pattern where we use a decorator which is just extended just from the same base  class which `has a` and `is a` relation with the base class. 
 
 
 We wrap an object with another object called _decorator_ and talk to **origin object** by our wrapper therefore a _Decorator_ **is a** and **has a** relation with the **original object** at the same time.
