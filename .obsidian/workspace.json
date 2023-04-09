@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "883594bfc7e31b73",
+        "id": "eeb52e0c9c3811e6",
         "type": "tabs",
         "children": [
           {
-            "id": "c373556833fcd279",
+            "id": "e74d64d59a7a0775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Decorator Pattern.md",
+                "file": "CSS/Three Dots text overflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Decorator Pattern.md",
+                "file": "CSS/Three Dots text overflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Decorator Pattern.md",
+                "file": "CSS/Three Dots text overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Decorator Pattern.md"
+                "file": "CSS/Three Dots text overflow.md"
               }
             }
           }
@@ -148,39 +148,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c373556833fcd279",
+  "active": "e74d64d59a7a0775",
   "lastOpenFiles": [
-    "Design Patterns/DESIGN PATTERNS.canvas",
-    "Angular/Subject.md",
-    "Angular/RXJS.md",
-    "Angular/Observables.md",
-    "Angular/Primeng/Applying CSS On Dynamic Class.md",
-    "Rails/Controller/Routing.md",
-    "Rails/Controller/Best Practice.md",
-    "Rails/Controller/Action Controller.md",
-    "Rails/Controller/Action Controller Callbacks.md",
-    "Rails/Controller/Active Storage.md",
-    "Postgres/Backup and Restore Databases.md",
-    "Untitled.canvas",
-    "README.md",
-    "Global Execution Contecxt.md",
+    "CSS/Three Dots text overflow.md",
+    "CSS",
+    "Ruby/self keyword.md",
+    "Ruby",
+    "Excalidraw/Bridge Pattern Diagram.md",
+    "Design Patterns/Bridge Design Pattern.md",
     "CONFIGS/ZSHRC & ALIASES.md",
     "CONFIGS/Starship Config.md",
     "CONFIGS/Alacritty.md",
-    "Angular/Primeng",
-    "Ruby/self keyword.md",
-    "CONFIGS/Untitled",
     "CONFIGS",
-    "Design Patterns/Bridge Design Pattern.md",
-    "Design Patterns/Proxy Design Pattern.md",
-    "Ruby",
-    "Git/Setup Two Accounts.md",
-    "Excalidraw/Bridge Pattern Diagram.md",
-    "Design Patterns/Facade Design Pattern.md",
+    "Angular/Primeng/Applying CSS On Dynamic Class.md",
+    "Angular/Primeng",
     "Design Patterns/Adapter Design Pattern.md",
+    "Design Patterns/Facade Design Pattern.md",
+    "Design Patterns/Proxy Design Pattern.md",
+    "Design Patterns/DESIGN PATTERNS.canvas",
     "Design Patterns/Singleton Design Pattern.md",
     "Design Patterns/Structural.md",
     "Design Patterns/Behavioral.md",
+    "Design Patterns/Designing Patterns.md",
+    "Design Patterns/Creational.md",
+    "Design Patterns/FactoryMethod Design Pattern.md",
+    "Design Patterns/Strategy Design Pattern.md",
+    "Design Patterns/Observer Design Pattern.md",
+    "Design Patterns/Decorator Pattern.md",
+    "Design Patterns/Command Design Pattern.md",
+    "Design Patterns/Command Pattern.md",
+    "JS Interview Notes/Modules/Different Modules.md",
+    "Global Execution Contecxt.md",
+    "Excalidraw/Adapter Pattern Diagram.md",
+    "Excalidraw/Command Pattern Diagram.md",
+    "Untitled.canvas",
     "JS Interview Notes/Untitled.canvas",
     "Untitled 1.canvas",
     "JS Interview Notes/10 Things In JS/Functions",
