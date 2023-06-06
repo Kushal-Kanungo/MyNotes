@@ -1,4 +1,4 @@
-- Validations are used to ensure that only valid data is saved into your database.
+	- Validations are used to ensure that only valid data is saved into your database.
 - Model Level Validations
 - Validation Done Before insert and update queries
 

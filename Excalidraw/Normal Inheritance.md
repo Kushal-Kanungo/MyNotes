@@ -49,7 +49,7 @@ STRATEGY PATTERN. ^kABFuIhk
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.20",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -98,8 +98,8 @@ STRATEGY PATTERN. ^kABFuIhk
 		},
 		{
 			"type": "text",
-			"version": 745,
-			"versionNonce": 2061183177,
+			"version": 747,
+			"versionNonce": 1728944562,
 			"isDeleted": false,
 			"id": "pXtXiVoQ",
 			"fillStyle": "hachure",
@@ -108,17 +108,17 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -904.5876266306873,
-			"y": -622.2872500249865,
+			"x": -904.5837814158435,
+			"y": -622.984745665875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 92.61328125,
-			"height": 52.8,
+			"width": 92.6055908203125,
+			"height": 54.19499128177709,
 			"seed": 122378021,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679716288056,
+			"updated": 1684924662904,
 			"link": null,
 			"locked": false,
 			"fontSize": 22.58124636740712,
@@ -128,7 +128,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "wa7suFnacJAvEj5qL7Ay9",
-			"originalText": "Vehicle\ndrive()"
+			"originalText": "Vehicle\ndrive()",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "rectangle",
@@ -169,8 +170,8 @@ STRATEGY PATTERN. ^kABFuIhk
 		},
 		{
 			"type": "text",
-			"version": 956,
-			"versionNonce": 1916479399,
+			"version": 958,
+			"versionNonce": 70538546,
 			"isDeleted": false,
 			"id": "zzv2zmhk",
 			"fillStyle": "hachure",
@@ -179,17 +180,17 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1265.992980471833,
-			"y": -462.0007455590488,
+			"x": -1265.9750361358956,
+			"y": -464.20635647782564,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 184.734375,
-			"height": 184.79999999999998,
+			"width": 184.698486328125,
+			"height": 189.21122183755358,
 			"seed": 832835653,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679716313210,
+			"updated": 1684924662906,
 			"link": null,
 			"locked": false,
 			"fontSize": 22.525145456851618,
@@ -199,7 +200,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "tFAAqBYOHkfEqm-zLOTnw",
-			"originalText": "Sporty Vehicle\ndrive(){\n...\n...\n...\n...\n}"
+			"originalText": "Sporty Vehicle\ndrive(){\n...\n...\n...\n...\n}",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "rectangle",
@@ -240,8 +242,8 @@ STRATEGY PATTERN. ^kABFuIhk
 		},
 		{
 			"type": "text",
-			"version": 949,
-			"versionNonce": 1568873415,
+			"version": 951,
+			"versionNonce": 612511922,
 			"isDeleted": false,
 			"id": "JZt5LQV9",
 			"fillStyle": "hachure",
@@ -250,17 +252,17 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -968.7303590517768,
-			"y": -429.0338645988376,
+			"x": -968.6805543642768,
+			"y": -429.64829727225117,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 224.220703125,
-			"height": 52.8,
+			"width": 224.12109375,
+			"height": 54.028865346827025,
 			"seed": 259602085,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679716573472,
+			"updated": 1684924662908,
 			"link": null,
 			"locked": false,
 			"fontSize": 22.512027227844595,
@@ -270,7 +272,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "aaDwCSjq_s8MAMu3OzDoZ",
-			"originalText": "Passenger Vehicle\ndrive()"
+			"originalText": "Passenger Vehicle\ndrive()",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "rectangle",
@@ -311,8 +314,8 @@ STRATEGY PATTERN. ^kABFuIhk
 		},
 		{
 			"type": "text",
-			"version": 912,
-			"versionNonce": 1798625255,
+			"version": 914,
+			"versionNonce": 1085221938,
 			"isDeleted": false,
 			"id": "2ghBjs4C",
 			"fillStyle": "hachure",
@@ -321,17 +324,17 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -602.649019772547,
-			"y": -466.48166643956233,
+			"x": -602.605074460047,
+			"y": -468.63218079650966,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 197.841796875,
-			"height": 184.79999999999998,
+			"width": 197.75390625,
+			"height": 189.10102871389458,
 			"seed": 121969931,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679716288056,
+			"updated": 1684924662909,
 			"link": null,
 			"locked": false,
 			"fontSize": 22.512027227844595,
@@ -341,12 +344,13 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "TAj7aKLdKmYL8pQPUUjN3",
-			"originalText": "OffRoad Vehicle\ndrive(){\n...\n...\n...\n...\n}"
+			"originalText": "OffRoad Vehicle\ndrive(){\n...\n...\n...\n...\n}",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "arrow",
-			"version": 1156,
-			"versionNonce": 683558793,
+			"version": 1164,
+			"versionNonce": 377917294,
 			"isDeleted": false,
 			"id": "1UmGQCdM_v_3CUXUu-p3r",
 			"fillStyle": "hachure",
@@ -355,19 +359,19 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1070.66733685523,
-			"y": -479.567218326191,
+			"x": -1070.4070988673307,
+			"y": -479.7522480276124,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 138.83382648690576,
-			"height": 74.2062210386913,
+			"width": 138.54306892521083,
+			"height": 74.0211913372699,
 			"seed": 1456399333,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679716573472,
+			"updated": 1684924682008,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -389,15 +393,15 @@ STRATEGY PATTERN. ^kABFuIhk
 					0
 				],
 				[
-					138.83382648690576,
-					-74.2062210386913
+					138.54306892521083,
+					-74.0211913372699
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1221,
-			"versionNonce": 1169475751,
+			"version": 1229,
+			"versionNonce": 1914597806,
 			"isDeleted": false,
 			"id": "HkmowpJZzBAcRyobOM_Ec",
 			"fillStyle": "hachure",
@@ -406,19 +410,19 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -852.5171532357322,
-			"y": -456.618905185529,
+			"x": -852.5276152503177,
+			"y": -457.0554269830134,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 5.561699118734396,
-			"height": 87.93541127233232,
+			"width": 5.545012455447591,
+			"height": 87.49888947484794,
 			"seed": 1446282405,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679716573472,
+			"updated": 1684924682009,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -440,15 +444,15 @@ STRATEGY PATTERN. ^kABFuIhk
 					0
 				],
 				[
-					-5.561699118734396,
-					-87.93541127233232
+					-5.545012455447591,
+					-87.49888947484794
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1006,
-			"versionNonce": 173673191,
+			"version": 1014,
+			"versionNonce": 1291848686,
 			"isDeleted": false,
 			"id": "-g3qjJgwhKn8BXv2JJlpz",
 			"fillStyle": "hachure",
@@ -457,19 +461,19 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -633.1783741129026,
-			"y": -482.9072958685258,
+			"x": -633.484057783102,
+			"y": -483.0923255699471,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 140.23333791085452,
-			"height": 65.13932442889836,
+			"width": 139.90641807318286,
+			"height": 64.96168689904414,
 			"seed": 2041800101,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679716573472,
+			"updated": 1684924682010,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -491,8 +495,8 @@ STRATEGY PATTERN. ^kABFuIhk
 					0
 				],
 				[
-					-140.23333791085452,
-					-65.13932442889836
+					-139.90641807318286,
+					-64.96168689904414
 				]
 			]
 		},
@@ -598,8 +602,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"y": -910.1377111949688,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 65.625,
-			"height": 26.4,
+			"width": 65.5975341796875,
+			"height": 26.8855252830817,
 			"seed": 683014635,
 			"groupIds": [],
 			"roundness": null,
@@ -614,7 +618,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "is a "
+			"originalText": "is a ",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "text",
@@ -632,8 +637,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"y": -838.8876525789323,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 65.625,
-			"height": 26.4,
+			"width": 65.5975341796875,
+			"height": 26.8855252830817,
 			"seed": 1013408709,
 			"groupIds": [],
 			"roundness": null,
@@ -648,7 +653,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "has a"
+			"originalText": "has a",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "text",
@@ -666,8 +672,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"y": -151.23521711965793,
 			"strokeColor": "#5f3dc4",
 			"backgroundColor": "transparent",
-			"width": 853.125,
-			"height": 52.8,
+			"width": 852.7679443359375,
+			"height": 53.7710505661634,
 			"seed": 279595429,
 			"groupIds": [],
 			"roundness": null,
@@ -682,7 +688,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Problem If Sporty vehicle has same drive algo as offroad that it \ncreate duplicate in our code. "
+			"originalText": "Problem If Sporty vehicle has same drive algo as offroad that it \ncreate duplicate in our code. ",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "text",
@@ -716,12 +723,13 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Base Class"
+			"originalText": "Base Class",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "ellipse",
-			"version": 52,
-			"versionNonce": 872759591,
+			"version": 90,
+			"versionNonce": 1802204338,
 			"isDeleted": false,
 			"id": "4zUrcfbK566tIW0aoByHB",
 			"fillStyle": "hachure",
@@ -730,8 +738,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 13.881972004184263,
-			"y": -731.0041305536286,
+			"x": 12.21530533751752,
+			"y": -720.1707972202952,
 			"strokeColor": "#000000",
 			"backgroundColor": "#7950f2",
 			"width": 85.71428571428578,
@@ -751,14 +759,14 @@ STRATEGY PATTERN. ^kABFuIhk
 					"type": "arrow"
 				}
 			],
-			"updated": 1679716409879,
+			"updated": 1684924686547,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 42,
-			"versionNonce": 1888616489,
+			"version": 117,
+			"versionNonce": 158595186,
 			"isDeleted": false,
 			"id": "qIiUvX8mZKjNM5NAVaow_",
 			"fillStyle": "hachure",
@@ -767,8 +775,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -107.54659942438684,
-			"y": -596.7184162679142,
+			"x": -111.71326609105358,
+			"y": -592.5517496012476,
 			"strokeColor": "#000000",
 			"backgroundColor": "#7950f2",
 			"width": 75.71428571428555,
@@ -792,7 +800,7 @@ STRATEGY PATTERN. ^kABFuIhk
 					"type": "arrow"
 				}
 			],
-			"updated": 1679716413273,
+			"updated": 1684924666506,
 			"link": null,
 			"locked": false
 		},
@@ -971,8 +979,8 @@ STRATEGY PATTERN. ^kABFuIhk
 		},
 		{
 			"type": "arrow",
-			"version": 26,
-			"versionNonce": 2122090503,
+			"version": 254,
+			"versionNonce": 1732120178,
 			"isDeleted": false,
 			"id": "GsXaIIftmXnF8vr5Lcgi4",
 			"fillStyle": "hachure",
@@ -981,19 +989,19 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -38.9751708529584,
-			"y": -599.5755591250572,
+			"x": -41.868461690490406,
+			"y": -594.4260975122144,
 			"strokeColor": "#000000",
 			"backgroundColor": "#7950f2",
-			"width": 57.14285714285711,
-			"height": 61.42857142857133,
+			"width": 57.22375904991841,
+			"height": 57.110097136255945,
 			"seed": 768765129,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679716404768,
+			"updated": 1684924686548,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1015,15 +1023,15 @@ STRATEGY PATTERN. ^kABFuIhk
 					0
 				],
 				[
-					57.14285714285711,
-					-61.42857142857133
+					57.22375904991841,
+					-57.110097136255945
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 31,
-			"versionNonce": 1036234217,
+			"version": 107,
+			"versionNonce": 152530994,
 			"isDeleted": false,
 			"id": "hXetya9e4aIbEyEv45B0X",
 			"fillStyle": "hachure",
@@ -1032,19 +1040,19 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 162.45340057561293,
-			"y": -606.7184162679143,
+			"x": 160.359361626849,
+			"y": -605.4236661800875,
 			"strokeColor": "#000000",
 			"backgroundColor": "#7950f2",
-			"width": 62.85714285714289,
-			"height": 54.28571428571422,
+			"width": 60.771320478124665,
+			"height": 47.0024563322944,
 			"seed": 1507585831,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679716409879,
+			"updated": 1684924686548,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1066,15 +1074,15 @@ STRATEGY PATTERN. ^kABFuIhk
 					0
 				],
 				[
-					-62.85714285714289,
-					-54.28571428571422
+					-60.771320478124665,
+					-47.0024563322944
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 27,
-			"versionNonce": 729702631,
+			"version": 179,
+			"versionNonce": 2116158450,
 			"isDeleted": false,
 			"id": "kiZzvMrDF4Ozp_3Vl6ElZ",
 			"fillStyle": "hachure",
@@ -1083,19 +1091,19 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -151.8323137101013,
-			"y": -456.71841626791434,
+			"x": -152.13366038342713,
+			"y": -456.9096189312996,
 			"strokeColor": "#000000",
 			"backgroundColor": "#7950f2",
-			"width": 57.14285714285711,
-			"height": 65.71428571428578,
+			"width": 53.29483768657626,
+			"height": 61.34542436297278,
 			"seed": 1791494345,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679716411516,
+			"updated": 1684924666506,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1117,15 +1125,15 @@ STRATEGY PATTERN. ^kABFuIhk
 					0
 				],
 				[
-					57.14285714285711,
-					-65.71428571428578
+					53.29483768657626,
+					-61.34542436297278
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 28,
-			"versionNonce": 905593799,
+			"version": 180,
+			"versionNonce": 1524676018,
 			"isDeleted": false,
 			"id": "DRF8n9XejdqfnIoiuCFPW",
 			"fillStyle": "hachure",
@@ -1134,19 +1142,19 @@ STRATEGY PATTERN. ^kABFuIhk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -14.689456567244179,
-			"y": -459.5755591250572,
+			"x": -16.67195648583671,
+			"y": -459.70984093739423,
 			"strokeColor": "#000000",
 			"backgroundColor": "#7950f2",
-			"width": 25.71428571428578,
-			"height": 62.85714285714289,
+			"width": 26.680717678024287,
+			"height": 59.52011189290192,
 			"seed": 1055894535,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679716413273,
+			"updated": 1684924666507,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1168,8 +1176,8 @@ STRATEGY PATTERN. ^kABFuIhk
 					0
 				],
 				[
-					-25.71428571428578,
-					-62.85714285714289
+					-26.680717678024287,
+					-59.52011189290192
 				]
 			]
 		},
@@ -1291,8 +1299,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"y": -341.00413055362867,
 			"strokeColor": "#000000",
 			"backgroundColor": "#be4bdb",
-			"width": 814.822265625,
-			"height": 82.8,
+			"width": 814.56298828125,
+			"height": 84.8571428571428,
 			"seed": 357673831,
 			"groupIds": [],
 			"roundness": null,
@@ -1307,7 +1315,8 @@ STRATEGY PATTERN. ^kABFuIhk
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Whenever code is sharing between parent to child it is ok,\nbut when we want to share code b/w siblings then we can use\nSTRATEGY PATTERN."
+			"originalText": "Whenever code is sharing between parent to child it is ok,\nbut when we want to share code b/w siblings then we can use\nSTRATEGY PATTERN.",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -1325,10 +1334,10 @@ STRATEGY PATTERN. ^kABFuIhk
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 1369.2345871951338,
-		"scrollY": 1084.6302141573135,
+		"scrollX": 1371.3642258670088,
+		"scrollY": 1130.3699492908981,
 		"zoom": {
-			"value": 0.75
+			"value": 0.6000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
