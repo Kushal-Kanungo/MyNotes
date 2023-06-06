@@ -17,3 +17,5 @@ Key features of Redis include:
 7. **Cluster Support:** Redis supports clustering, allowing you to distribute your data across multiple Redis instances for scalability and high availability.
 
 Redis is widely used in various applications, including web applications, caching layers, session stores, real-time analytics, job queues, and more. It provides a rich set of commands and libraries for interacting with the Redis server from different programming languages and frameworks.
+
+#### Redis gives support for **16 separate** db's to keeps keys. 
