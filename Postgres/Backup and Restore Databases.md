@@ -1,4 +1,4 @@
-	### To restore database from an dump file 
+### To restore database from an dump file 
 ```bash
 psql -d employee_journal_dev -h localhost -U postgres < '/home/kushal/work-diary-dev-21-mar-2023-backup.dump'
 ```
@@ -10,3 +10,8 @@ psql -d employee_journal_dev -h localhost -U postgres < '/home/kushal/work-diary
 ```bash
 pg_dump -d postgres://employee_journal_dev_user:zwtgfJ7eY84PEzQ6Zh7Az7AvC3XVbnUsMttChMezbaLGhZFhMHuGuMHEeyyU2AnE@org40-dev.cqr1ocgaeexp.ap-south-1.rds.amazonaws.com:5432/employee_journal_dev > wd-dev.dump
 ```
+
+ | Name | Kushal |
+ | ---- | ------ |
+ | test | tes    |
+ |      |        |
