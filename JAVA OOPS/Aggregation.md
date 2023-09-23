@@ -1,0 +1,1 @@
+> If a class have an entity reference, it is known as Aggregation. Aggregation represents **HAS-A** relationship.
