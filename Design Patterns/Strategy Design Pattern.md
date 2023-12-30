@@ -1,5 +1,5 @@
 - Family of Algorithms
-- Each of them are interchangable
+- Each of them are interchangeable
 - We **decoupled** the **algorithm** from the one using them.
 - So when we need to change something in algorithms like what it does we do not need to change the client code
 - #### For eg.
